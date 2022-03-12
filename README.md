@@ -1,4 +1,4 @@
-## Ruby on Rails development intern, Computer Engineering student
+## Ruby on Rails development intern, Computer Engineering student, IT enthusiast
 <div align="center">
   <a href="https://github.com/felipecicolin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecicolin&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>  
