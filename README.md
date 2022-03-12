@@ -10,7 +10,7 @@
   <img align="center" alt="Cicolin-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cicolin-Ruby" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
   <img align="center" alt="Cicolin-Rails" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg">
-  <img align="right" alt="Cicolin-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/58073599/158000686-41d6f437-8ebd-437e-8e37-999127369a6e.png">
+  <img align="right" alt="Cicolin-pic" height="180" style="border-radius:50px;" src="https://user-images.githubusercontent.com/58073599/158001625-c7c361da-2a95-4539-95d9-c691c127c45c.png">
 
 </div>
   
@@ -22,7 +22,3 @@
   
   ![Snake animation](https://github.com/felipecicolin/felipecicolin/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
-  
-  
-  
