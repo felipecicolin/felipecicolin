@@ -1,24 +1,37 @@
-## Ruby on Rails development intern, Computer Engineering student, IT enthusiast
-<div align="center">
-  <a href="https://github.com/felipecicolin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecicolin&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecicolin&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Cicolin-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cicolin-HTML"height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cicolin-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cicolin-Ruby" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
-  <img align="center" alt="Cicolin-Rails" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg">
-  <img align="right" alt="Cicolin-pic" height="160" style="border-radius:50px;" src="https://user-images.githubusercontent.com/58073599/158017783-f811fb6f-4065-459a-acfb-d0926cec42dc.png">
+ Hi 👋 My name is Felipe Cicolin
+=====================================
 
-</div>
-  
-  ##  
- 
-<div>  
-  <a href="https://www.linkedin.com/in/fcicolin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
-  ![Snake animation](https://github.com/felipecicolin/felipecicolin/blob/output/github-contribution-grid-snake.svg)
+Web development and IT enthusiast
+---------------------------------
+
+Ruby on Rails Developer, Computer Engineering student. Studying web development and improving my skills.
+
+* 🧠  I'm learning Ruby, Rails, HTML, CSS, Javascript and web development in general.
+
+### Skills
+
+<p align="left">
+<img align="right" alt="Cicolin-pic" height="160" style="border-radius:50px;" src="https://user-images.githubusercontent.com/58073599/158017783-f811fb6f-4065-459a-acfb-d0926cec42dc.png">
+
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="50" height="50" alt="Ruby" /></a>
+<a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="50" height="50" alt="Ruby on Rails" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50" height="50" alt="Bootstrap" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="50" height="50" alt="Heroku" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" alt="PostgreSQL" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/felipecicolin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /></a> <a href="https://www.linkedin.com/in/fcicolin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a></p>
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/felipecicolin"><img src="https://github-readme-stats.vercel.app/api?username=felipecicolin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="felipecicolin's GitHub stats" /></a>
+
+<a href="https://github.com/felipecicolin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecicolin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+![Snake animation](https://github.com/felipecicolin/felipecicolin/blob/output/github-contribution-grid-snake.svg)
 </div>
