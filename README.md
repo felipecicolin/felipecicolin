@@ -1,10 +1,7 @@
  Hi 👋 My name is Felipe Cicolin
-=====================================
+==================================
 
-Web development and IT enthusiast
----------------------------------
-
-Ruby on Rails Developer, Computer Engineering student. Studying web development and improving my skills.
+Currently working with Ruby on Rails development. Studying web development, Computer Engineering and improving my skills.
 
 * 🧠  I'm learning Ruby, Rails, HTML, CSS, Javascript and web development in general.
 
@@ -25,13 +22,7 @@ Ruby on Rails Developer, Computer Engineering student. Studying web development 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/felipecicolin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /></a> <a href="https://www.linkedin.com/in/fcicolin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a></p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/felipecicolin"><img src="https://github-readme-stats.vercel.app/api?username=felipecicolin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="felipecicolin's GitHub stats" /></a>
-
-<a href="https://github.com/felipecicolin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecicolin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left"><a href="https://www.linkedin.com/in/fcicolin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a></p>
 
 ![Snake animation](https://github.com/felipecicolin/felipecicolin/blob/output/github-contribution-grid-snake.svg)
 </div>
