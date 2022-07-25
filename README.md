@@ -1,7 +1,8 @@
  Hi 👋 My name is Felipe Cicolin
 ==================================
 
-Currently working with Ruby on Rails development. Studying web development, Computer Engineering and improving my skills.
+<p> Currently working with Ruby on Rails development. </p>
+<p> Studying Computer Engineering, web development and improving my skills. </p>
 
 * 🧠  I'm learning Ruby, Rails, HTML, CSS, Javascript and web development in general.
 
