@@ -1,4 +1,4 @@
- Hi 👋 My name is Felipe Cicolin
+Hi👋 I’m Felipe Cicolin
 ==================================
 
 <p> Currently working with Ruby on Rails development. </p>
