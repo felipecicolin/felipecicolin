@@ -4,12 +4,13 @@ Hi👋 I’m Felipe Cicolin
 <p> Currently working with Ruby on Rails development. </p>
 <p> Studying Computer Engineering, web development and improving my skills. </p>
 
+
 * 🧠  I'm learning Ruby, Rails, HTML, CSS, Javascript and web development in general.
 
 ### Skills
 
 <p align="left">
-<img align="right" height="160" style="border-radius:50px;" src="https://user-images.githubusercontent.com/58073599/185260664-2c3cd5c6-07da-49e8-950a-0a4e49938fc1.PNG">
+<img align="right" height="160" style="border-radius:50px;" src="https://user-images.githubusercontent.com/58073599/185261139-7acbc742-c390-497f-85f1-354346461221.PNG">
 
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="50" height="50" alt="Ruby" /></a>
 <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="50" height="50" alt="Ruby on Rails" /></a>
