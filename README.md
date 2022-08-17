@@ -9,7 +9,7 @@ Hi👋 I’m Felipe Cicolin
 ### Skills
 
 <p align="left">
-<img align="right" alt="Cicolin-pic" height="160" style="border-radius:50px;" src="https://user-images.githubusercontent.com/58073599/158017783-f811fb6f-4065-459a-acfb-d0926cec42dc.png">
+<img align="right" height="160" style="border-radius:50px;" src="https://user-images.githubusercontent.com/58073599/185260664-2c3cd5c6-07da-49e8-950a-0a4e49938fc1.PNG">
 
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="50" height="50" alt="Ruby" /></a>
 <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="50" height="50" alt="Ruby on Rails" /></a>
@@ -24,6 +24,3 @@ Hi👋 I’m Felipe Cicolin
 ### Socials
 
 <p align="left"><a href="https://www.linkedin.com/in/fcicolin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a></p>
-
-![Snake animation](https://github.com/felipecicolin/felipecicolin/blob/output/github-contribution-grid-snake.svg)
-</div>
