@@ -1,6 +1,3 @@
-👋
-==================================
-
 <p> Currently working with Ruby on Rails development. </p>
 <p> Studying Computer Engineering, web development and improving my skills. </p>
 
