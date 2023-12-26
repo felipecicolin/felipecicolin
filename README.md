@@ -1,8 +1,5 @@
-<p> Currently working with Ruby on Rails development. </p>
-<p> Studying Computer Engineering, web development and improving my skills. </p>
-
-
-* 🧠  I'm learning Ruby, Rails, HTML, CSS, Javascript and web development in general.
+<p> I'm currently developing with Ruby on Rails. </p>
+<p> Studying web development, computer engineering, and improving my skills. </p>
 
 ### Skills
 
