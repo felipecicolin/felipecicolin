@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⌨️ About Me:
 Passionate about technology and problem-solving, I work in web development using Ruby on Rails, PostgreSQL, and cloud services to create scalable and efficient applications. I have experience in backend and frontend development, API integrations, performance optimization, and automated testing. <br><br>Focused on writing clean and maintainable code, I am always seeking new challenges and opportunities to improve systems and processes.
 
 # 💻 Tech Stack:
